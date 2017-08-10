@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'super-rentals', 
+    modulePrefix: 'super-rentals',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
@@ -15,10 +15,10 @@ module.exports = function(environment) {
     },
 
     firebase: {
-      apiKey: 'AIzaSyAMcxv8i8tD4T1LCXsbWJUsvG4pXTKeobQ',
-      authDomain: 'super-rentals-62f8c.firebaseapp.com',
-      databaseURL: 'https://super-rentals-62f8c.firebaseio.com',
-      storageBucket: 'super-rentals-62f8c.appspot.com'
+      apiKey: 'AIzaSyAlxFpW3DZ1GUIgqFRVoqYosMged4DeM20',
+      authDomain: 'super-rentals-829af.firebaseapp.com',
+      databaseURL: 'https://super-rentals-829af.firebaseio.com',
+      storageBucket: 'super-rentals-829af.appspot.com'
     },
 
     APP: {
