@@ -10,5 +10,8 @@ export default Ember.Component.extend({
     update(rental, params) {
      this.sendAction('update', rental, params);
     },
+    destroyReview(review) {
+      this.sendAction('destroyReview', review);
+    }
   }
 });
